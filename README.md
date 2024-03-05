@@ -57,8 +57,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/govindghosh/govindghosh/output/snake.svg" alt="Snake animation" />
 
+![snake animation](https://github.com/<seu govindghosh>/<seu govindghosh>/blob/output/github-contribution-grid-snake2.svg)
 ###
 
 <p align="left">I'm open to collaboration and discussions on anything frontend development-related. If you have any questions, suggestions, or just want to chat, feel free to reach out!</p>
