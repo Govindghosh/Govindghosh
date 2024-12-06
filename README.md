@@ -103,7 +103,7 @@
 ### 🧑‍💻 Featured Projects:
 
 - [Portfolio Website](https://portfolio-gold-sigma.vercel.app/) – My personal portfolio showcasing my work.
-- [MERN Application](https://github.com/govindghosh/mern-app) – A fullstack app built with MongoDB, Express, React, and Node.js.
+- [MERN Application](https://github.com/govindghosh/MERN) – A fullstack app built with MongoDB, Express, React, and Node.js.
   
 ---
 
